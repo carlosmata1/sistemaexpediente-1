@@ -1,0 +1,24 @@
+main{
+	background-color: white;
+}
+	
+
+video{
+	margin: 0;
+	width: 100%;
+	margin-top: 0;
+}
+
+#log{
+	margin-top: 80px;
+}
+form{
+
+	margin-left: 30px;
+}
+
+.modal {
+	width: 70% !important ;
+	height: 80% !important ;
+	margin-left: 30px;
+}
